@@ -1,3 +1,4 @@
+<img scr="https://i.imgur.com/y0I1gsr.png" alt="banner"></img>
 ### Hi there 👋
 
 --> I am a small business owner based in NYC 🍎
