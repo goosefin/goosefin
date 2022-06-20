@@ -1,4 +1,4 @@
-<img scr="[Imgur](https://i.imgur.com/y0I1gsr.png)" alt="banner"></img>
+<a href="https://imgur.com/y0I1gsr"><img src="https://i.imgur.com/y0I1gsr.png" title="source: imgur.com" /></a>" alt="banner"></img>
 
 ### Hi there 👋
 
