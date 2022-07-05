@@ -1,4 +1,5 @@
-[Imgur](https://i.imgur.com/qqgeSCZ.gifv)
+<iframe class="imgur-embed" width="100%" height="540" frameborder="0" src="https://i.imgur.com/qqgeSCZ.gifv#embed"></iframe>
+
 ### Hi there 👋
 
 --> I am a small business owner based in NYC 🍎
