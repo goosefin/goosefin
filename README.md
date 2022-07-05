@@ -1,4 +1,4 @@
-<iframe class="imgur-embed" width="100%" height="540" frameborder="0" src="https://i.imgur.com/qqgeSCZ.gifv#embed"></iframe>
+[url=https://imgur.com/qqgeSCZ]http://i.imgur.com/qqgeSCZ.gifv[/url]
 
 ### Hi there 👋
 
