@@ -1,4 +1,4 @@
-![coding goose](https://i.imgur.com/qqgeSCZ.gifv)
+![Imgur](https://i.imgur.com/qqgeSCZ.gifv)
 
 
 ### Hi there 👋
