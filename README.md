@@ -13,7 +13,7 @@
 --> Words I live by: "Jack of all trades, master of none" 
 
 
---> LinkedIn: https://www.linkedin.com/in/agustina-fin-04730a12b/
+--> LinkedIn: www.linkedin.com/in/agustina-fin
 
 
 --> Email: agustinafin96@gmail.com
