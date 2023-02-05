@@ -4,7 +4,7 @@
 --> I am a small business owner based in NYC 🍎
 
 
---> Soon to be Software Enginner bootcamp graduate 👾
+--> Software Enginner bootcamp graduate 👾
 
 
 --> For the last 5 years I have worked with hundreds of dog owners in the NYC area as an animal behaviorist 
